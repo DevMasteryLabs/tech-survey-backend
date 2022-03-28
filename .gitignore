@@ -1,0 +1,8 @@
+node_modules/
+
+.env
+
+# exclude everything
+public/uploads/*
+# exception to the rule
+!public/uploads/.gitkeep
